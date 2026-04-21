@@ -22,6 +22,9 @@
 |  |  |
 |  |  |
 
+<img width="2404" height="8484" alt="image" src="https://github.com/user-attachments/assets/338e02f7-196a-48c2-aae3-ceeb6a4bae3d" />
+
+
 # 4. 학습
 설정한 하이퍼파라미터들입니다.
 | 항목 | 설정값 | 비고 |
