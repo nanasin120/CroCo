@@ -21,8 +21,7 @@
 |  |  | 
 |  |  |
 |  |  |
-
-<img width="2404" height="8484" alt="image" src="https://github.com/user-attachments/assets/338e02f7-196a-48c2-aae3-ceeb6a4bae3d" />
+<img width="2648" height="8484" alt="image" src="https://github.com/user-attachments/assets/2a9d1417-2bb6-42b0-9e4c-3dd8b6008701" />
 
 
 # 4. 학습
