@@ -33,3 +33,6 @@
 | Learning rate | 5e-5 | 초기 학습률 |
 | Optimizer | AdamW | 논문의 내용을 따랐습니다. |
 | Image Size | 224 x 224 | 논문의 내용을 따랐습니다. 224 % 16 == 0|
+
+## License
+This repository is for portfolio and educational purposes only. All rights reserved by the author.
